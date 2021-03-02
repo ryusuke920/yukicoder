@@ -1,5 +1,5 @@
 s = input()
 alpha = "abcdefghijklmnopqrstuvwxyz"
-ans = ""
+ans = ''
 for i in range(len(s)):
     ans += chr()
